@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\homework1\homework3\bin\Debug\netcoreapp3.1\homework3.exe
+C:\Users\dell\source\repos\homework1\homework3\bin\Debug\netcoreapp3.1\homework3.deps.json
+C:\Users\dell\source\repos\homework1\homework3\bin\Debug\netcoreapp3.1\homework3.runtimeconfig.json
+C:\Users\dell\source\repos\homework1\homework3\bin\Debug\netcoreapp3.1\homework3.runtimeconfig.dev.json
+C:\Users\dell\source\repos\homework1\homework3\bin\Debug\netcoreapp3.1\homework3.dll
+C:\Users\dell\source\repos\homework1\homework3\bin\Debug\netcoreapp3.1\homework3.pdb
+C:\Users\dell\source\repos\homework1\homework3\obj\Debug\netcoreapp3.1\homework3.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\homework1\homework3\obj\Debug\netcoreapp3.1\homework3.AssemblyInfo.cs
+C:\Users\dell\source\repos\homework1\homework3\obj\Debug\netcoreapp3.1\homework3.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\homework1\homework3\obj\Debug\netcoreapp3.1\homework3.dll
+C:\Users\dell\source\repos\homework1\homework3\obj\Debug\netcoreapp3.1\homework3.pdb
+C:\Users\dell\source\repos\homework1\homework3\obj\Debug\netcoreapp3.1\homework3.genruntimeconfig.cache
+C:\Users\dell\source\repos\homework1\homework3\obj\Debug\netcoreapp3.1\homework3.csprojAssemblyReference.cache

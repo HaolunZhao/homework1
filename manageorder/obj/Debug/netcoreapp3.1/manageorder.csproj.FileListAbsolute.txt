@@ -10,3 +10,4 @@ C:\Users\dell\Desktop\homework1\manageorder\obj\Debug\netcoreapp3.1\manageorder.
 C:\Users\dell\Desktop\homework1\manageorder\obj\Debug\netcoreapp3.1\manageorder.dll
 C:\Users\dell\Desktop\homework1\manageorder\obj\Debug\netcoreapp3.1\manageorder.pdb
 C:\Users\dell\Desktop\homework1\manageorder\obj\Debug\netcoreapp3.1\manageorder.genruntimeconfig.cache
+C:\Users\dell\Desktop\homework1\manageorder\obj\Debug\netcoreapp3.1\manageorder.csprojAssemblyReference.cache

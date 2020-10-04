@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\bin\Debug\ordermanagewinform.exe.config
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\bin\Debug\ordermanagewinform.exe
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\bin\Debug\ordermanagewinform.pdb
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.Form1.resources
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.Form2.resources
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.Properties.Resources.resources
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.exe
+C:\Users\dell\source\repos\ordermanagewinform\ordermanagewinform\obj\Debug\ordermanagewinform.pdb

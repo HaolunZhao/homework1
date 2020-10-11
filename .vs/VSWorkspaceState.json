@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\manageorder"
   ],
-  "SelectedNode": "\\manageorder",
+  "SelectedNode": "\\manageorder\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
